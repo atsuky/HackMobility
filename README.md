@@ -1,6 +1,6 @@
 # EasyBicing
 
-We made a responsive web application with node.js, Html and CSS to solve the problems that bicning users usually have, for that we implemented real-time and history functionality.
+We made a responsive web application with node.js, Html and CSS to solve the problems that bicing users usually have, for that we implemented real-time and history functionality.
 
 ## Why we did it
 
